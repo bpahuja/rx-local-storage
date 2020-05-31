@@ -6,6 +6,12 @@
 
 It is a reactive wrapper around Storage Event API of DOM.
 
+## Installation
+
+````
+npm install rxjs-storage
+````
+
 ## Usage
 
 #### Angular Example
