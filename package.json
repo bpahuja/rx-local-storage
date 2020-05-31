@@ -1,0 +1,23 @@
+{
+  "name": "rx-storage",
+  "version": "1.0.0",
+  "description": "Reactive Wrapper on Local Storage Events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpahuja/rx--storage.git"
+  },
+  "author": "Bhavay Pahuja <bhavay.pahuja@gmail.com> (https://twitter.com/BhavayPahuja)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bpahuja/rx-storage/issues"
+  },
+  "homepage": "https://github.com/bpahuja/rx-storage#readme",
+  "dependencies": {
+    "rxjs": "^6.5.5"
+  }
+}
