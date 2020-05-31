@@ -18,7 +18,7 @@ npm install rxjs-storage
 
 ````typescript
 import { Component, OnInit } from '@angular/core';
-import { RxStorage } from './services/storage.service';
+import { RxStorage } from 'rxjs-storage';
 
 @Component({
   selector: 'app-root',
